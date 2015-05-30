@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Patrick/Documents/$$$.txt",
+			"settings":
+			{
+				"buffer_size": 233,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Patrick/Documents/Repositories/handmade/code/win32_handmade.cpp",
+			"settings":
+			{
+				"buffer_size": 5044,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Patrick/Documents/Repositories/handmade/code/win32_handmade.cpp",
+		"/C/Users/Patrick/Dropbox/TOPKEK/sp/test.php",
+		"/C/Users/Patrick/Documents/$$$.txt",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files/EqualizerAPO/config/example.txt",
+		"/C/Program Files/EqualizerAPO/config/config.txt",
+		"/D/Installs/Programme/MarkdownPad/MarkdownPad Pro 2.4.3 Build 39518 Final Portable/amped.nfo",
+		"/D/Installs/Programme/MarkdownPad_Pro_2.4.3_Build_39518_Final_Portable/MarkdownPad Pro 2.4.3 Build 39518 Final Portable/Crack/Must Read it First.txt",
+		"/D/Installs/Programme/MarkdownPad_Pro_2.4.3_Build_39518_Final_Portable/MarkdownPad Pro 2.4.3 Build 39518 Final Portable/Crack/Password.txt",
+		"/C/Users/Patrick/Downloads/VMware Workstation 11/keygens/embrace.nfo",
+		"/C/Users/Patrick/Dropbox/SRH Ainf Gruppe/C# - Anwendungsentwicklung/MY_METHODEN.cs",
+		"/C/Users/Patrick/Downloads/Patch/Readme.txt",
+		"/C/Users/Patrick/Documents/Repositories/dnb4/update_db.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Games/World of Warcraft 1.12 - Kopie/WTF/Config.wtf",
+		"/D/Games/World of Warcraft 1.12 - Kopie/realmlist.wtf",
+		"/C/Users/Patrick/Documents/Repositories/dnb4/my/player.js",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/EnergyWatch_v2/EnergyWatch_v2.lua",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/EnergyWatch_v2/EnergyWatch_v2.xml",
+		"/C/Users/Patrick/Dropbox/TOPKEK/sp/simple_html_dom.php",
+		"/C/Users/Patrick/Documents/Repositories/dnb4/all.php",
+		"/C/Users/Patrick/Documents/Repositories/dnb4/index.html",
+		"/C/Users/Patrick/Documents/Repositories/dnb4/my/visible.js",
+		"/C/Users/Patrick/Documents/Repositories/dnb4/my/script.js",
+		"/C/Users/Patrick/Documents/Repositories/dnb4/db.php",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/VanillaGuideA/VanillaGuide.toc",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/DiscordLibrary/DiscordLib_Main.lua",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/Attack bar/Attackbar.lua",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/Attack bar/Attackbar.xml",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/Informant/Informant.toc",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/!JoinLeaveSpam/JoinLeaveSpam.lua",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/!StopTheSpam/StopTheSpam.lua",
+		"/D/Games/World of Warcraft 1.12/Interface/AddOns/!StopTheSpam/Ruleset.lua",
+		"/D/classic addon pack/ALL_AddOns/AddOns/r/rSelfCast/rSelfCast.xml",
+		"/D/classic addon pack/ALL_AddOns/AddOns/a/AuctionFilterPlus/AuctionFilterPlus.toc",
+		"/D/classic addon pack/ALL_AddOns/AddOns/a/Archaeologist/Archaeologist.toc",
+		"/D/classic addon pack/ALL_AddOns/AddOns/r/rSelfCast/rSelfCast.lua",
+		"/D/backup/2- user/Documents/Repositories/dnb4/all.php",
+		"/D/backup/2- user/Documents/Repositories/angular.js/README.md",
+		"/C/Users/Patrick/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<?",
+			"$date",
+			" $"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Patrick/Documents/$$$.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Patrick/Documents/Repositories/handmade/code/win32_handmade.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5044,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test_db.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
